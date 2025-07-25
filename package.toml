@@ -1,0 +1,8 @@
+[package_detail]
+name = "airgeddon"
+description = "Wifi auditing framework tool"
+version = "11.50"
+source_url = "https://github.com/v1s1t0r1sh3r3/airgeddon"
+license = "GPL-3.0"
+install_script = "setup.sh"
+install_script_type = "shell"
